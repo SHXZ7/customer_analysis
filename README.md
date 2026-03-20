@@ -68,13 +68,6 @@ I am currently building a Power BI dashboard from the cleaned tables above.
 
 ### Dashboard Screenshots
 
-Add your screenshots to a `screenshots/` folder, then link them below.
-
-Example:
-
-```md
-## Dashboard Screenshots
-
 ### Executive Summary
 ![Executive Summary](screenshots/image.png)
 
@@ -86,7 +79,6 @@ Example:
 
 ### Seller Performance
 ![Seller Performance](screenshots/seller-performance.png)
-```
 
 ## Next Update
 

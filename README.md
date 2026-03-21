@@ -74,8 +74,8 @@ I am currently building a Power BI dashboard from the cleaned tables above.
 ### Customer and retention analysis
 ![Customer and Retention Analysis](screenshots/customer-retention.png)
 
-### Product Performance
-![Product Performance](screenshots/c.png)
+### Delivery and Customer Experience
+![Delivery and Customer Experience](screenshots/c.png)
 
 ### Seller Performance
 ![Seller Performance](screenshots/seller-performance.png)

@@ -77,8 +77,11 @@ I am currently building a Power BI dashboard from the cleaned tables above.
 ### Delivery and Customer Experience
 ![Delivery and Customer Experience](screenshots/c.png)
 
+### Product Insights
+![Product Insights](screenshots/d.png)
+
 ### Seller Performance
-![Seller Performance](screenshots/seller-performance.png)
+![Seller Performance](screenshots/e.png)
 
 ## Next Update
 

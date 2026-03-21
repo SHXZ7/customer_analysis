@@ -71,8 +71,8 @@ I am currently building a Power BI dashboard from the cleaned tables above.
 ### Executive Summary
 ![Executive Summary](screenshots/image.png)
 
-### Sales Trends
-![Sales Trends](screenshots/sales-trends.png)
+### Customer and retention analysis
+![Customer and Retention Analysis](screenshots/customer-retention.png)
 
 ### Product Performance
 ![Product Performance](screenshots/product-performance.png)
